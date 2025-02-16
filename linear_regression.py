@@ -1,12 +1,8 @@
-# Imports - you can add any other permitted libraries
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 from matplotlib import animation, cm 
 
-# You may add any other functions to make your code more modular. However,
-# do not change the function signatures (name and arguments) of the given functions,
-# as these functions will be called by the autograder.
 
 class LinearRegressor:
     def __init__(self):
