@@ -1,10 +1,6 @@
-# Imports - you can add any other permitted libraries
 from matplotlib import pyplot as plt
 import numpy as np
 import pandas as pd
-# You may add any other functions to make your code more modular. However,
-# do not change the function signatures (name and arguments) of the given functions,
-# as these functions will be called by the autograder.
 
 
 class GaussianDiscriminantAnalysis:
